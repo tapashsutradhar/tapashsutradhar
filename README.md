@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, My name is Tapash Sutradhar. I was born and brought up in Alipurduar, WB, India, and went to school at Mc. William, Alipurduar, a passionate tech enthusiast and learner. I hold a bachelor’s degree in engineering from BITM, WB, which has equipped me with a strong technical foundation and problem-solving skills. My deep fascination with technology, gadgets, and cars drives my curiosity and inspires me to innovate and contribute meaningfully to the field of engineering.
+Hi, My name is Tapash Sutradhar. I was born and brought up in Alipurduar, WB, India, and went to school at Mc. William, Alipurduar, a passionate tech enthusiast and learner. I hold a bachelor’s degree in engineering from BITM, WB, which has equipped me with a strong technical foundation and problem-solving skills. My deep fascination with techn and gadgets drives my curiosity and inspires me to innovate and contribute meaningfully to the field of engineering.
 
 Beyond technology, I have a keen interest in politics, which keeps me engaged with global affairs and helps me understand the societal impact of innovation. I am a tech nerd and a political geek at heart, always eager to explore new ideas and their broader implications.
 
