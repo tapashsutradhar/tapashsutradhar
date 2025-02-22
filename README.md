@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Tapash Sutradhar
+Hi, My name is Tapash Sutradhar. I was born and brought up in Alipurduar, WB, India, and went to school at Mc. William, Alipurduar, a passionate tech enthusiast and learner. I hold a bachelor’s degree in engineering from BITM, WB, which has equipped me with a strong technical foundation and problem-solving skills. My deep fascination with technology, gadgets, and cars drives my curiosity and inspires me to innovate and contribute meaningfully to the field of engineering.
+
+Beyond technology, I have a keen interest in politics, which keeps me engaged with global affairs and helps me understand the societal impact of innovation. I am a tech nerd and a political geek at heart, always eager to explore new ideas and their broader implications.
+
+In my free time, I enjoy photography, reading, and traveling, which allow me to express my creativity and capture the world around me. I also love attending tech meetups, listening to industry leaders, and connecting with like-minded professionals. While I’ve explored programming and various tools, I am continuously refining my skills to align them with my career aspirations.
+
+I thrive in collaborative environments where I can work with fellow tech enthusiasts and thought leaders to drive innovation and make a positive impact.
