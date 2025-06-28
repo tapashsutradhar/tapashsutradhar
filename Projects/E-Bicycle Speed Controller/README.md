@@ -328,4 +328,8 @@ void hallInterrupt() {
 • Battery undervoltage protection added to avoid deep discharge. <br>
 
 
+
+
+
+
 <em>This project demonstrates a successful implementation of an embedded system for controlling an electric bicycle’s speed. It incorporates sensor feedback, motor control, and real-time processing, resulting in a practical and efficient transport control system. The design is scalable and open for future upgrades like IoT integration, mobile apps, and advanced algorithms.</em>
