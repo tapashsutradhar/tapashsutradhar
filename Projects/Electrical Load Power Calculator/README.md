@@ -1,4 +1,4 @@
-# ⚡️ Electrical Load Power Calculator – Web Application
+# ⚡️ Electrical Load Power Calculator – Web Application and Application
 
 ## Project Overview
 
@@ -50,8 +50,49 @@ Q=VIsin(θ)
 S=VI
 
 - Three-Phase Correction:
-Multiply all formulas by $$3  \(\\ sqrtx\) 
-3
-3
-​
-  for 3-phase systems.
+Multiply all formulas by √3 for 3-phase systems.
+
+## System Architecture
+
+System_Architecture.pgsql
+```
+User Browser ──▶ Flask Web Server
+                  │
+                  ├── Templates (HTML/Jinja2)
+                  ├── Database (SQLite via SQLAlchemy)
+                  └── Power Calculator Logic + Plotting
+```
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+```
+
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
