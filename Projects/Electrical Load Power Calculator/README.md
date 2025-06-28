@@ -71,7 +71,7 @@ Defines: <br>
 
 2. *app.py* – Main Application
 - Handles user login, form submissions, calculation logic <br>
-- Stores results in SQLite and generates graphs with *matplotlib* <br>
+- Stores results in *SQLite* and generates graphs with *matplotlib* <br>
 
 3. Templates
 - ***index.html***: Form and result display <br>
@@ -85,7 +85,48 @@ Output Power Triangle Plot <br>
 History Page with *Data Table* <br>
 Exported *CSV File* Example <br>
 
+## Output Example
+***User inputs:***
+```
+Voltage  |  Current  |	Power Factor  |	Phase Type
+230	     |  10	     |  0.8	          | Single
+```
 
+***Output:***
+```
+Real Power (P) | Reactive Power (Q) | Apparent Power (S)
+1.84 kW	       | 1.38 kVAR	        | 2.30 kVA
+```
+
+## Security Features
+
+- Passwords stored securely using hashing (Werkzeug)
+- Sessions to track user logins
+- Calculation history is user-specific and private
+
+## Export Feature
+
+Clicking "Export" generates a downloadable *CSV file* with all previous results for a user, formatted as: <br>
+export.scss
+
+```
+Voltage,Current,PF,Phase,P (kW),Q (kVAR),S (kVA)
+230,10,0.8,single,1.84,1.38,2.30
+...
+
+```
+
+## Learning
+
+- Built full-stack Python web application
+- Applied core electrical engineering formulas
+- Used Flask, SQLAlchemy, Matplotlib, and session handling
+- Learned user authentication and secure password storage
+- Gained practical experience in web development and Python backend
+
+
+
+<em>This project is a fully functional web-based electrical power calculator that demonstrates both theoretical electrical engineering knowledge and practical Python web development skills. It is extendable, secure, and provides a useful educational tool for students, engineers, and technical audiences.</em>
 
 
 
