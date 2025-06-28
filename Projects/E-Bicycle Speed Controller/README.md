@@ -242,16 +242,80 @@ if (currentRPM > 120) {
 }
 ```
 
-
-
-```
+## Complete Arduino Code: Speed Controller
 
 ```
+// -------------------- Pin Configuration --------------------
+const int throttlePin = A0;   // Throttle analog input
+const int pwmPin = 9;         // PWM output to motor driver
+const int hallPin = 2;        // Hall sensor input (interrupt capable)
 
+// -------------------- Variables --------------------
+volatile unsigned int hallPulseCount = 0;  // Count pulses from hall sensor
+unsigned long lastTime = 0;                // Last RPM calculation time
+float currentRPM = 0;                      // Measured RPM
+
+int throttleValue = 0;      // Raw ADC throttle value (0-1023)
+int pwmOutput = 0;          // Mapped PWM output (0-255)
+
+// Safety limits
+const float maxRPM = 120.0;   // Example max RPM threshold
+
+// -------------------- Setup --------------------
+void setup() {
+  pinMode(throttlePin, INPUT);
+  pinMode(pwmPin, OUTPUT);
+  pinMode(hallPin, INPUT_PULLUP); // Use internal pull-up resistor
+
+  // Enable interrupt on hall sensor pin
+  attachInterrupt(digitalPinToInterrupt(hallPin), hallInterrupt, RISING);
+
+  // Initialize Serial Monitor
+  Serial.begin(9600);
+}
+
+// -------------------- Main Loop --------------------
+void loop() {
+  // 1. Read throttle input
+  throttleValue = analogRead(throttlePin);
+
+  // 2. Map throttle to PWM value
+  pwmOutput = map(throttleValue, 0, 1023, 0, 255);
+
+  // 3. Safety check - Stop motor if RPM exceeds limit
+  if (currentRPM > maxRPM) {
+    analogWrite(pwmPin, 0);
+    Serial.println("!!! Over-speed detected. Motor stopped.");
+    delay(1000);  // Pause before rechecking
+    return;       // Skip rest of loop
+  }
+
+  // 4. Set motor speed via PWM
+  analogWrite(pwmPin, pwmOutput);
+
+  // 5. RPM calculation every 1000 ms
+  if (millis() - lastTime >= 1000) {
+    detachInterrupt(digitalPinToInterrupt(hallPin));  // Temporarily stop interrupt
+    currentRPM = hallPulseCount * 60.0;               // Assuming 1 pulse/rev
+    hallPulseCount = 0;
+    lastTime = millis();
+    attachInterrupt(digitalPinToInterrupt(hallPin), hallInterrupt, RISING);
+
+    // 6. Output telemetry to Serial
+    Serial.print("Throttle: ");
+    Serial.print(throttleValue);
+    Serial.print(" | PWM: ");
+    Serial.print(pwmOutput);
+    Serial.print(" | RPM: ");
+    Serial.println(currentRPM);
+  }
+}
+
+// -------------------- Interrupt Service Routine --------------------
+void hallInterrupt() {
+  hallPulseCount++; // Increment on every hall sensor pulse
+}
 ```
-
-
-
 ## Results
 • Smooth speed control with accurate feedback. <br>
 • Throttle response time: <100ms <br>
