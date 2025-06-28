@@ -30,3 +30,14 @@ Enhance safety and battery efficiency.
 - Display (optional) -- OLED / LCD (I2C) <br>
 - Miscellaneous -- Connectors, wires, switches
 
+### Software Components
+
+Arduino IDE (for programming microcontroller)
+
+Embedded C/C++
+
+Serial Monitor for debugging
+
+PWM Control for motor speed
+
+Interrupt-based Hall sensor feedback for RPM calculation
