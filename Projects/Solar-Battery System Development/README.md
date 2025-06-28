@@ -39,6 +39,8 @@ Fuses & Disconnects	Safety protection
 - Load: DC lighting and USB ports for device charging
 - Monitoring: Arduino reads current/voltage, logs data, and communicates via RS-485
 
+![Basic ASCII Circuit Diagram](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Basic%20ASCII%20Circuit%20Diagram.less)
+
 ## Wiring Diagram
 
 ![/Projects/Solar-Battery System Development/Schematic diagram Solar Project.png](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Schematic%20diagram%20Solar%20Project.png)
