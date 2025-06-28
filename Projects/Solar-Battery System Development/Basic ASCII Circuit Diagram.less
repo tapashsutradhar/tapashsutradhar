@@ -1,0 +1,18 @@
+          [ Solar Panel 18V 200W ]
+                    │
+                    ▼
+        +-------------------------+
+        |    MPPT Charge Controller    |
+        +-------------------------+
+            │         │         │
+            ▼         ▼         ▼
+        [Battery]   [DC Loads]  [Load Sensor]
+     (12V 50Ah)    (LEDs, USB)  (INA219 #2)
+            │                         ▲
+            ▼                         │
+       [INA219 #1]          [To Arduino Uno]
+    (solar input sense)         │
+            │                   ▼
+          GND ───────────────[ Arduino Uno ]
+                                  │
+                        [ RS-485 Modbus Module ]
