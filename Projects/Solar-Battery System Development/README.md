@@ -41,7 +41,7 @@ Fuses & Disconnects	Safety protection
 
 ## Wiring Diagram
 
-
+![/Projects/Solar-Battery System Development/Schematic diagram Solar Project.png](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Schematic%20diagram%20Solar%20Project.png)
 
 ## Testing
 
