@@ -52,58 +52,42 @@ code Link [Control_Code_Snippet_(Arduino-based)](https://github.com/tapashsutrad
 ## Explanation of Key Components and Connections
 
 1. Solar Panel
-Connects directly to PV input of the MPPT charge controller.
-
-Use MC4 connectors or proper DC screw terminals.
-
+Connects directly to PV input of the MPPT charge controller.  <br>
+Use MC4 connectors or proper DC screw terminals. <br>
 Typical output: 18V DC (unregulated).
 
 2. MPPT Charge Controller
-Regulates charging of the battery based on solar input.
+Regulates charging of the battery based on solar input. <br>
+Has three terminals:  <br>
+PV input (from panel) <br>
+Battery output (to battery) <br>
+Load output (to DC devices or fuse box) <br>
 
-Has three terminals:
+3. Battery (LiFePO₄ 12V 50Ah) <br>
+Stores energy from the panel via the charge controller. <br>
+Should have a built-in BMS for overcharge/discharge protection. <br>
+Connect battery + to controller battery + and same for –. <br>
 
-PV input (from panel)
-
-Battery output (to battery)
-
-Load output (to DC devices or fuse box)
-
-3. Battery (LiFePO₄ 12V 50Ah)
-Stores energy from the panel via the charge controller.
-
-Should have a built-in BMS for overcharge/discharge protection.
-
-Connect battery + to controller battery + and same for –.
-
-4. DC Loads
+4. DC Loads <br>
 Connect via load terminal of the charge controller or directly from the battery through a fused DC bus.
 
-Includes:
+Includes: <br>
+LED lights (12V) <br>
+USB charging module (12V to 5V buck converter) <br>
 
-LED lights (12V)
-
-USB charging module (12V to 5V buck converter)
-
-5. Sensors (INA219)
-INA219 #1: Connected between solar panel and controller to measure input voltage/current.
-
-INA219 #2: Connected between battery and load to monitor load usage.
-
+5. Sensors (INA219) <br>
+INA219 #1: Connected between solar panel and controller to measure input voltage/current. <br>
+INA219 #2: Connected between battery and load to monitor load usage. <br>
 Both sensors communicate with Arduino using I2C (SDA/SCL) and require Vcc + GND.
 
-6. Arduino Uno
-Collects sensor data and sends it to:
-
-Serial monitor
-
-RS-485 Modbus interface (optional)
-
+6. Arduino Uno <br>
+Collects sensor data and sends it to: <br>
+Serial monitor <br>
+RS-485 Modbus interface <br>
 Uses basic code to compute power (V x I), log data, and flag issues (e.g., low battery).
 
-7. RS-485 Module (Modbus)
-Transmits Arduino data to a remote PC, dashboard, or microserver.
-
+7. RS-485 Module (Modbus) <br>
+Transmits Arduino data to a remote PC, dashboard, or microserver. <br>
 Optional — for telemetry or upgrades.
 
 ## Wiring Diagram
