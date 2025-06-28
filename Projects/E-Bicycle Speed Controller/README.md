@@ -24,7 +24,7 @@ Microcontroller --Arduino UNO / STM32 / ESP32    | <br>
 Motor Driver -- BTS7960 / L298N / VESC         | <br>
 Brushless DC Motor -- 250W/500W BLDC Motor           | <br>
 Throttle -- Hall Effect Based Throttle     | <br>
-Speed Sensor	      |  Hall Effect + Magnet           | <br>
+Speed SensorHall Effect + Magnet           | <br>
 Battery Pack	      |  24V / 36V Lithium Ion          | <br>
 Display (optional)	  |  OLED / LCD (I2C)               | <br>
 Miscellaneous	      |  Connectors, wires, switches    |
