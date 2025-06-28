@@ -30,6 +30,11 @@ Enhance safety and battery efficiency.
 - Display (optional) -- OLED / LCD (I2C) <br>
 - Miscellaneous -- Connectors, wires, switches
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ### Software Components
 
 Arduino IDE (for programming microcontroller)
