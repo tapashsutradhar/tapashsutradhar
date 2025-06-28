@@ -3,7 +3,7 @@ A repository contents my various projects with shared liabilities and utility sc
 
 # Projects I have done - 
 
-## <strong> - Solar-Battery System Development (Field Prototype Project) </strong>
+## <strong> - Solar-Battery System Development [🔗 Link](https://github.com/tapashsutradhar/tapashsutradhar/tree/main/Projects/Solar-Battery%20System%20Development) </strong> 
 
    <em> I worked on the design and testing of a small-scale solar-battery system intended for off-grid use in rural areas. I was responsible for the wiring layout, selecting protection devices, and developing a simple charge/discharge control logic. I also helped build a prototype, ran performance and safety tests, and documented the full system design — including wiring schematics, bill of materials, and test results. That experience really highlighted how important clarity, safety, and reliability are when systems are deployed in the field. </em> <br> <br>
   Led the design and testing of a compact solar-battery system for off-grid applications in rural settings. Responsibilities included: <br>

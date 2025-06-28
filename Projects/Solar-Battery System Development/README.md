@@ -39,6 +39,7 @@ Fuses & Disconnects	Safety protection
 - Load: DC lighting and USB ports for device charging
 - Monitoring: Arduino reads current/voltage, logs data, and communicates via RS-485
 
+<<<<<<< HEAD
 ## Explanation of Key Components and Connections
 
 1. Solar Panel
@@ -95,10 +96,13 @@ Uses basic code to compute power (V x I), log data, and flag issues (e.g., low b
 Transmits Arduino data to a remote PC, dashboard, or microserver.
 
 Optional — for telemetry or upgrades.
+=======
+![Basic ASCII Circuit Diagram](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Basic%20ASCII%20Circuit%20Diagram.less)
+>>>>>>> 2123890cc1e68b4bdaa321adb6cf5e5cfc20a19f
 
 ## Wiring Diagram
 
-
+![/Projects/Solar-Battery System Development/Schematic diagram Solar Project.png](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Schematic%20diagram%20Solar%20Project.png)
 
 ## Testing
 
