@@ -19,8 +19,9 @@ Enhance safety and battery efficiency.
 ## System Components
 
 ### Hardware Components
-<ins>|   Component	          |  Specification / Description    |</ins>
+<ins>|   Component	          |  Specification / Description    |</ins> <br>
 |   Microcontroller	      |  Arduino UNO / STM32 / ESP32    |
+
 |   Motor Driver	      |  BTS7960 / L298N / VESC         |
 |   Brushless DC Motor	  |  250W/500W BLDC Motor           |
 |   Throttle	          |  Hall Effect Based Throttle     |
