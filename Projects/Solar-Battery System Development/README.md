@@ -47,7 +47,7 @@ If voltage exceeds 14.4V, stop charging<br>
 Auto-reconnect when within safe range (12.0–14.0V)<br>
 Reverse-polarity and overcurrent protection via hardware<br>
 
-
+1[Control_Code_Snippet_(Arduino-based)](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Control_Code_Snippet_(Arduino-based).cpp)
 
 ## Explanation of Key Components and Connections
 
