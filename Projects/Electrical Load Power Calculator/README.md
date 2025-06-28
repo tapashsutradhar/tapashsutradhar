@@ -66,17 +66,17 @@ User Browser ──▶ Flask Web Server
 
 1. *models.py* – Database Models
 Defines: <br>
-***User:*** Stores usernames and hashed passwords <br>
-***Calculation:*** Stores all power calculations tied to a user <br>
+- ***User:*** Stores usernames and hashed passwords <br>
+- ***Calculation:*** Stores all power calculations tied to a user <br>
 
 2. *app.py* – Main Application
-Handles user login, form submissions, calculation logic <br>
-Stores results in SQLite and generates graphs with *matplotlib* <br>
+- Handles user login, form submissions, calculation logic <br>
+- Stores results in SQLite and generates graphs with *matplotlib* <br>
 
 3. Templates
-***index.html***: Form and result display <br>
-***login.html*** & ***register.html***: Authentication pages <br>
-***history.html***: Displays user-specific past calculations <br>
+- ***index.html***: Form and result display <br>
+- ***login.html*** & ***register.html***: Authentication pages <br>
+- ***history.html***: Displays user-specific past calculations <br>
 
 ## Screenshots
 Homepage with Calculator Form <br>
