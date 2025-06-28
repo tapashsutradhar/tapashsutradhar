@@ -33,11 +33,28 @@ Enhance safety and battery efficiency.
 ### Software Components
 
 Arduino IDE (for programming microcontroller)
-
 Embedded C/C++
-
 Serial Monitor for debugging
-
 PWM Control for motor speed
-
 Interrupt-based Hall sensor feedback for RPM calculation
+
+
+## Embedded System Architecture
+
+The embedded system architecture integrates the following subsystems:
+
+- Input System:
+Throttle (analog signal via ADC)
+Speed sensor (digital input via interrupt)
+
+- Processing Unit:
+Microcontroller processes analog throttle value
+Computes desired speed and compares with actual speed
+
+- Output System:
+Motor driver receives PWM signal
+Motor speed is adjusted accordingly
+
+- Feedback Loop:
+Speed sensor provides real-time RPM
+Feedback helps dynamically adjust PWM to maintain smooth control
