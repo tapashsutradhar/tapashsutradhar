@@ -114,9 +114,9 @@ void countRPM() {
 ## Integration and Testing
 
 ### Integration Steps:
-• Connect throttle to ADC pin of microcontroller. <br>
-• Connect hall effect sensor to interrupt pin. <br>
-• Connect motor driver with PWM pin and motor terminals. <br>
+• Connect throttle to ***ADC pin of microcontroller***. <br>
+• Connect ***hall effect sensor*** to interrupt pin. <br>
+• Connect motor driver with ***PWM pin*** and motor terminals. <br>
 • Power the system with appropriate voltage. <br>
 • Upload the code and monitor via serial output. <br>
 
@@ -129,18 +129,126 @@ void countRPM() {
 
 The E-Bicycle Speed Controller, specifically designed for a *Microcontroller Unit (MCU)* like Arduino UNO or ESP32.  <br>
 
-It includes: <br>
+***It includes:*** <br>
 
-Throttle control (ADC) <br>
-PWM generation for motor speed  <br>
-Hall effect speed sensor (Interrupt)  <br>
-RPM calculation  <br>
-Serial monitoring <br>
-Fail-safe example <br>
+• Throttle control (ADC) <br>
+• PWM generation for motor speed  <br>
+• Hall effect speed sensor (Interrupt)  <br>
+• RPM calculation  <br>
+• Serial monitoring <br>
+• Fail-safe example <br>
+
+## Embedded System Code (Arduino/C++)
+
+### Pin Definitions
+
+pin.cpp
+```
+// Analog input pin for throttle
+const int throttlePin = A0;
+
+// PWM output pin to motor driver
+const int pwmPin = 9;
+
+// Digital input pin for hall effect sensor
+const int hallPin = 2;
+```
+
+### Global Variables
+
+global_variable.cpp
+```
+volatile unsigned int hallPulseCount = 0; // Used in interrupt
+unsigned long lastTime = 0;
+float currentRPM = 0;
+
+int throttleValue = 0;
+int pwmOutput = 0;
+```
+
+### Setup Function
+
+Setup_Function.cpp
+```
+void setup() {
+  pinMode(throttlePin, INPUT);
+  pinMode(pwmPin, OUTPUT);
+  pinMode(hallPin, INPUT_PULLUP); // Hall sensor input
+
+  attachInterrupt(digitalPinToInterrupt(hallPin), hallInterrupt, RISING);
+
+  Serial.begin(9600); // For debugging and data monitoring
+}
+```
+### Main Loop Function
+
+Main_Loop_Function.cpp
+```
+void loop() {
+  // Read throttle (0-1023)
+  throttleValue = analogRead(throttlePin);
+
+  // Convert to PWM (0-255)
+  pwmOutput = map(throttleValue, 0, 1023, 0, 255);
+  analogWrite(pwmPin, pwmOutput);
+
+  // Calculate RPM every 1000 ms
+  if (millis() - lastTime >= 1000) {
+    detachInterrupt(digitalPinToInterrupt(hallPin));
+    currentRPM = hallPulseCount * 60.0; // 1 pulse per rotation
+    hallPulseCount = 0;
+    lastTime = millis();
+    attachInterrupt(digitalPinToInterrupt(hallPin), hallInterrupt, RISING);
+
+    // Display telemetry
+    Serial.print("Throttle: ");
+    Serial.print(throttleValue);
+    Serial.print(" | PWM: ");
+    Serial.print(pwmOutput);
+    Serial.print(" | RPM: ");
+    Serial.println(currentRPM);
+  }
+}
+```
+### Interrupt Service Routine
+Interrupt.cpp
+```
+void hallInterrupt() {
+  hallPulseCount++; // Increase count on each rising edge
+}
+```
+
+
+## Embedded Control Logic
+- Throttle to PWM:
+Analog value from the throttle (0-5V) is converted into a 0–255 range for PWM.
+
+- Speed Feedback:
+Hall sensor sends pulses per wheel revolution. Using time, we calculate RPM.
+
+- Motor Driver (e.g., BTS7960 / L298N):
+Receives PWM from MCU and drives the motor accordingly.
+
+## Optional: Safety & Fail-Safe Code
+
+Added the logic in the loop() to shut down on fault: <br>
+Safety.cpp <br>
+```
+// Safety: If RPM too high, shut down
+if (currentRPM > 120) {
+  analogWrite(pwmPin, 0);
+  Serial.println("!!! Over-speed detected. Motor stopped.");
+  delay(1000); // Safety cooldown
+}
+```
 
 
 
+```
 
+```
+
+```
 
 
 
