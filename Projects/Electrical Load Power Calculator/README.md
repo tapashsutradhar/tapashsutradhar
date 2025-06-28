@@ -62,6 +62,29 @@ User Browser ──▶ Flask Web Server
                   ├── Database (SQLite via SQLAlchemy)
                   └── Power Calculator Logic + Plotting
 ```
+## Key Modules & Code Summary
+
+1. *models.py* – Database Models
+Defines: <br>
+***User:*** Stores usernames and hashed passwords <br>
+***Calculation:*** Stores all power calculations tied to a user <br>
+
+2. *app.py* – Main Application
+Handles user login, form submissions, calculation logic <br>
+Stores results in SQLite and generates graphs with *matplotlib* <br>
+
+3. Templates
+***index.html***: Form and result display <br>
+***login.html*** & ***register.html***: Authentication pages <br>
+***history.html***: Displays user-specific past calculations <br>
+
+## Screenshots
+Homepage with Calculator Form <br>
+Login/Register Page <br>
+Output Power Triangle Plot <br>
+History Page with *Data Table* <br>
+Exported *CSV File* Example <br>
+
 
 
 
