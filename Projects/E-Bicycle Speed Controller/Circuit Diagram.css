@@ -1,0 +1,3 @@
+[Throttle] --> [ADC Pin - MCU] --> [PWM Signal] --> [Motor Driver] --> [BLDC Motor]
+                                           ↑
+[Hall Sensor RPM Feedback] --> [Interrupt Pin - MCU]
