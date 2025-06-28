@@ -21,31 +21,31 @@ The system includes:
 
 ## Component List
 
-Solar Panel	
-MPPT Charge Controller
-Battery LiFePO₄
-Arduino Uno	Microcontroller
-INA219 Sensors	Current & Voltage Measurement
-RS-485 Module	Modbus RTU Communication
-DC Loads	12V LED lights, USB ports
-Fuses & Disconnects	Safety protection
+Solar Panel	 <br>
+MPPT Charge Controller <br>
+Battery LiFePO₄ <br>
+Arduino Uno	Microcontroller <br>
+INA219 Sensors	Current & Voltage Measurement <br>
+RS-485 Module	Modbus RTU Communication <br>
+DC Loads	12V LED lights, USB ports <br>
+Fuses & Disconnects	Safety protection <br>
 
 ## System Design
 
-- Sizing: Based on ~600Wh/day energy demand
-- Solar Panel: Chosen to recharge battery in 4–5 hours of sunlight
-- Battery: Sized for 1 day of autonomy
-- Charge Controller: MPPT for efficiency, protects against over/under-voltage
-- Load: DC lighting and USB ports for device charging
+- Sizing: Based on ~600Wh/day energy demand <br>
+- Solar Panel: Chosen to recharge battery in 4–5 hours of sunlight <br>
+- Battery: Sized for 1 day of autonomy <br>
+- Charge Controller: MPPT for efficiency, protects against over/under-voltage <br>
+- Load: DC lighting and USB ports for device charging <br>
 - Monitoring: Arduino reads current/voltage, logs data, and communicates via RS-485
 
 ## Charge/Discharge Control Logic
 #### Logic Overview:
 Monitor battery voltage and current <br>
-If voltage drops below 11.8V, disconnect load<br>
-If voltage exceeds 14.4V, stop charging<br>
-Auto-reconnect when within safe range (12.0–14.0V)<br>
-Reverse-polarity and overcurrent protection via hardware<br>
+If voltage drops below 11.8V, disconnect load <br>
+If voltage exceeds 14.4V, stop charging <br>
+Auto-reconnect when within safe range (12.0–14.0V) <br>
+Reverse-polarity and overcurrent protection via hardware <br>
 
 code Link [Control_Code_Snippet_(Arduino-based)](https://github.com/tapashsutradhar/tapashsutradhar/blob/main/Projects/Solar-Battery%20System%20Development/Control_Code_Snippet_(Arduino-based).cpp)
 
