@@ -138,7 +138,14 @@ Voltage,Current,PF,Phase,P (kW),Q (kVAR),S (kVA)
 
 <em>This project is a fully functional web-based electrical power calculator that demonstrates both theoretical electrical engineering knowledge and practical Python web development skills. It is extendable, secure, and provides a useful educational tool for students, engineers, and technical audiences.</em>
 
+# GUI Electrical Load Power Calculator
 
+🧩 Features:
+- Select phase type (Single-phase or Three-phase)
+- Input voltage (V), current (A), power factor (0–1)
+
+- Output:
+Real Power (kW), Apparent Power (kVA), Reactive Power (kVAR)
 
 
 
