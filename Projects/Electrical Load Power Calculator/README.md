@@ -138,26 +138,44 @@ Voltage,Current,PF,Phase,P (kW),Q (kVAR),S (kVA)
 
 <em>This project is a fully functional web-based electrical power calculator that demonstrates both theoretical electrical engineering knowledge and practical Python web development skills. It is extendable, secure, and provides a useful educational tool for students, engineers, and technical audiences.</em>
 
-# GUI Electrical Load Power Calculator
+# Electrical Load Power Calculator : Flask App + Database + User Login + History Tracking
 
 🧩 Features:
+1. User Registration & Login
+2. SQLite database to:
+- Save users
+- Log each user's power calculation history
+3. History page to view previous calculations
+
 - Select phase type (Single-phase or Three-phase)
 - Input voltage (V), current (A), power factor (0–1)
 
 - Output:
 Real Power (kW), Apparent Power (kVA), Reactive Power (kVAR)
 
+# 📁 Project Structure:
 
-
-
-
-
-
+ProjectStructure.cpp
+```
+load_power_calculator/
+│
+├── app.py
+├── models.py
+├── database.db          ← auto-generated
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   └── history.html
+└── static/
+    └── power_triangle.png
 
 ```
 
 
-```
+
+
+
 
 
 ```

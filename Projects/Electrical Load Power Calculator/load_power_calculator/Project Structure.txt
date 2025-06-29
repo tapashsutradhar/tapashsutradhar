@@ -1,0 +1,43 @@
+
+📁 Project Structure:
+
+load_power_calculator/
+│
+├── app.py
+├── models.py
+├── database.db          ← auto-generated
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   └── history.html
+└── static/
+    └── power_triangle.png
+
+
+
+
+# Prerequisites:
+
+Install required packages:
+
+1.
+bash
+Install matplotlib
+
+2.
+bash
+pip install flask matplotlib
+
+
+# app code
+1. using Tkinter App with CSV Export + Power Triangle
+ ---->>    app_tk.py
+2.  Using Flask Python app with CSV Export + Power Triangle
+ ---->>    app.py
+3. Electrical Load Power Calculator : Flask App + Database + User Login + History Tracking
+ ---->> app.py
+
+
+ 
+
