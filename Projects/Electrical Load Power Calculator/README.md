@@ -17,6 +17,15 @@ The ***Electrical Load Power Calculator*** is a *web-based tool* built using *Py
 - Store each user’s input and result for future reference.
 - Allow easy data export and user authentication for personalized experience.
 
+### Create a Python application that calculates:
+
+1. Real Power (P)
+2. Reactive Power (Q)
+3. Apparent Power (S)
+4. Power Factor (PF)
+5. Load Current (I)
+<em>based on user inputs for voltage, current, power factor, and type of load (single-phase or three-phase).</em>
+
 ## Features
 
 |           Feature             |           Description               |
