@@ -98,7 +98,7 @@ Exported *CSV File* Example <br>
 ***User inputs:***
 ```
 Voltage  |  Current  |	Power Factor  |	Phase Type
-230      |  10       |  0.8         | Single
+230      |  10       |  0.8           | Single
 ```
 
 ***Output:***
