@@ -116,7 +116,8 @@ Real Power (P) | Reactive Power (Q) | Apparent Power (S)
 ## Export Feature
 
 Clicking "Export" generates a downloadable *CSV file* with all previous results for a user, formatted as: <br>
-export.scss
+
+<em>export.scss</em>
 
 ```
 Voltage,Current,PF,Phase,P (kW),Q (kVAR),S (kVA)
