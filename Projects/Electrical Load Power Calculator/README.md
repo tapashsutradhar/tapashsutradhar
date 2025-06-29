@@ -98,13 +98,13 @@ Exported *CSV File* Example <br>
 ***User inputs:***
 ```
 Voltage  |  Current  |	Power Factor  |	Phase Type
-230	   |  10	   |  0.8	         | Single
+230     |  10       |  0.8      | Single
 ```
 
 ***Output:***
 ```
 Real Power (P) | Reactive Power (Q) | Apparent Power (S)
-1.84 kW	       | 1.38 kVAR	       | 2.30 kVA
+1.84 kW	       | 1.38 kVAR      | 2.30 kVA
 ```
 
 ## Security Features
