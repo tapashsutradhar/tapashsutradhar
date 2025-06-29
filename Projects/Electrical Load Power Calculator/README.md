@@ -30,12 +30,12 @@ The ***Electrical Load Power Calculator*** is a *web-based tool* built using *Py
 
 |           Feature             |           Description               |
 |-------------------------------|-------------------------------------|
-|   🔐 User Registration/Login  |Secure authentication for each user |
-|   📥 Input Fields             |   BTS7960 / L298N / VESC           |
-|   📊 Output Results           |   250W/500W BLDC Motor             |
-|   📐 Power Triangle Plot      |   Hall Effect Based Throttle       |
-|   🗂️ Calculation History      |   Hall Effect + Magnet             |
-|   📤 CSV Export               |   24V / 36V Lithium Ion            |
+|   User Registration/Login  |Secure authentication for each user |
+|   Input Fields             |   BTS7960 / L298N / VESC           |
+|   Output Results           |   250W/500W BLDC Motor             |
+|   Power Triangle Plot      |   Hall Effect Based Throttle       |
+|   Calculation History      |   Hall Effect + Magnet             |
+|   CSV Export               |   24V / 36V Lithium Ion            |
 
 ## Technologies Used
 
