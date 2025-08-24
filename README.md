@@ -16,12 +16,3 @@ Here are some ideas to get you started:
 A geek and a nerd.
 -->
 My name is Tapash Sutradhar. 
-
-Project - 1
-E-Bicycle Speed Controller   [Link](https://github.com/tapashsutradhar/tapashsutradhar/tree/main/Projects/E-Bicycle%20Speed%20Controller)!
-
-Project - 2
-Electrical Load Power Calculator [Link](https://github.com/tapashsutradhar/tapashsutradhar/tree/main/Projects/Electrical%20Load%20Power%20Calculator)!
-
-Project - 3
-Solar-Battery System Development [Link](https://github.com/tapashsutradhar/tapashsutradhar/tree/main/Projects/Solar-Battery%20System%20Development)!
