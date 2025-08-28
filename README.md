@@ -24,6 +24,7 @@ I am an aspiring Data Analyst with a strong foundation in problem-solving, techn
 I specialize in: <br>
 ✔ Data Cleaning & Preparation (Python, Excel, SQL) <br>
 ✔ Data Visualization (Tableau, Power BI, Matplotlib) <br>
+✔ Python Libraries (Pandas, Seaborn, NumPy, Matplotlib) <br>
 ✔ Business Insights & Reporting <br>
 ✔ Statistical Analysis & Forecasting <br>
 
