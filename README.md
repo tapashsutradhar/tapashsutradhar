@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 A geek and a nerd.
 -->
 My name is Tapash Sutradhar. 
+I am an aspiring Data Analyst with a strong foundation in problem-solving, technical skills, and data-driven thinking from my background in Electrical Engineering. 
+
+I specialize in:
+✔ Data Cleaning & Preparation (Python, Excel, SQL)
+✔ Data Visualization (Tableau, Power BI, Matplotlib)
+✔ Business Insights & Reporting
+✔ Statistical Analysis & Forecasting
+
+I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
+
+My goal is to leverage data to uncover insights, improve decision-making, and support organizations in achieving measurable business impact. 
