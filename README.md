@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 A geek and a nerd.
 -->
-My name is Tapash Sutradhar. 
+My name is Tapash Sutradhar. <br>
+```
+Data Analyst | SQL, Python, Excel, Tableau | Turning Data Into Business Insights | Data Science & ML
+```
 I am an aspiring Data Analyst with a strong foundation in problem-solving, technical skills, and data-driven thinking from my background in Electrical Engineering. 
 
-I specialize in:
-✔ Data Cleaning & Preparation (Python, Excel, SQL)
-✔ Data Visualization (Tableau, Power BI, Matplotlib)
-✔ Business Insights & Reporting
-✔ Statistical Analysis & Forecasting
+I specialize in: <br>
+✔ Data Cleaning & Preparation (Python, Excel, SQL) <br>
+✔ Data Visualization (Tableau, Power BI, Matplotlib) <br>
+✔ Business Insights & Reporting <br>
+✔ Statistical Analysis & Forecasting <br>
 
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
