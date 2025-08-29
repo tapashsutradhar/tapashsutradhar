@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 A geek and a nerd.
 -->
 My name is Tapash Sutradhar. <br>
+
 ```
 Data Analyst | SQL, Python, Excel, Tableau | Turning Data Into Business Insights | Data Science & ML
 ```
