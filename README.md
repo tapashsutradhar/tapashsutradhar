@@ -18,10 +18,10 @@ A geek and a nerd.
 My name is Tapash Sutradhar. <br>
 
 ```
-Data Analyst | SQL, Python, Excel, Tableau | Turning Data Into Business Insights | Data Science & ML
+Software Development | Data Analyst | Data Science & ML 
 ```
 ```
-Software Development
+Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | HTML/CSS, JS, JSON, MERN
 ```
 I am an aspiring Software Developer & Data Analyst with a strong foundation in problem-solving, technical skills, and data-driven thinking from my background in Electrical Engineering. 
 
