@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 A geek and a nerd.
 -->
-My name is Tapash Sutradhar. <br>
-I am an aspiring Software Developer & Data Analyst with a strong foundation in problem-solving, technical skills, and data-driven thinking from my background in Electrical Engineering. <br>
+My name is Tapash Sutradhar. <br>  <br>
+I am an aspiring Data Analyst with a strong foundation in problem-solving, technical skills, and data-driven thinking from my background in Electrical Engineering. <br>
 
 ```
 Data Analyst/Engineer | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Data Science & ML
@@ -32,8 +32,8 @@ I specialize in: <br>
 ✔ Python Libraries (Pandas, Seaborn, NumPy, Matplotlib) <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
 ✔ Statistical Analysis & Forecasting <br>
-✔ Software Development <br>
 
-I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
+
+I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
 My goal is to leverage data to uncover insights, improve decision-making, and support organizations in achieving measurable business impact. 
