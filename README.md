@@ -35,3 +35,75 @@ I specialize in: <br>
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
 My goal is to leverage data to uncover insights, improve decision-making, and support organizations in achieving measurable business impact. 
+
+#
+
+[![GitHub Icon](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](LINK)
+[![GitHub Icon](https://img.shields.io/badge/My_GitHub-Portfolio_Projects_🔗-blue)](LINK)
+[![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tapashsutradhar/portfolio-project)
+
+
+## Project Structure
+
+```
+🗂️retail-analytics/
+├─ package.json
+├─ vite.config.js
+├─ tailwind.config.cjs
+├─ postcss.config.cjs
+├─ README.md
+├─ Dockerfile
+├─ .github/workflows/ci.yml
+├─ 🗂️server/
+│ ├─ package.json
+│ └─ index.js
+└─ 🗂️src/
+├─ main.jsx
+├─ App.jsx
+├─ 🗂️components/
+│ └─ UploadAndDashboard.jsx
+├─ 🗂️styles/index.css
+└─ 🗂️utils/parser.js
+```
+
+
+```md
+# When you run the app (npm run dev), browser will open a clean dashboard page with a few main sections:
+
+
+Top row → cards showing KPIs:
+- Total Revenue
+- Total Orders
+- Units Sold
+- Average Order Value
+
+Filters → dropdowns and date pickers to narrow down by category, region, or time.
+
+Charts →
+- Line chart of sales over time
+- Pie chart of sales by region
+- Bar chart of top categories
+
+Data Table → preview of the raw CSV rows with an option to export filtered data back out to CSV.
+
+How to use it:
+--------------
+
+Open the app in your browser (http://localhost:5173/).
+
+Click the “Upload CSV” button.
+
+Yes, you need to upload a CSV 📂 (otherwise the dashboard has no data to analyze).
+
+# The file should have columns like:
+
+OrderID,Date,Customer,Product,Category,Quantity,Price,Region
+
+
+Once uploaded, the KPIs, charts, and table will auto-populate from your data.
+
+Play with the filters (date range, region, category) to slice and dice.
+
+If you want, export the filtered table back out to CSV.
+```
+
