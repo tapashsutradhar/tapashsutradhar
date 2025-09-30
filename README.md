@@ -101,3 +101,7 @@ tapashsutradhar-github-repository
 └─ documents
 ```
 
+## 📌 Connect With Me
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tapashsutradhar)
+- Tableau Public: [Tableau Profile](https://public.tableau.com/profile/tapashsutradhar)
+- [Portfolio](https://tapashsutradhar.github.io/portfolio/)
