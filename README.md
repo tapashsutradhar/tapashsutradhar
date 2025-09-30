@@ -47,19 +47,29 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 
 ```
 tapashsutradhar-github-profile
-├─ retail-analytics
-├─ package.json
-├─ vite.config.js
-├─ server/
-│ ├─ package.json
-│ └─ index.js
-└─ src/
-├─ main.jsx
-├─ App.jsx
-├─ components/
+├─ portfolio-project
+│ ├─ 
+│ └─ 
+├─ data-analyst-portfolio
+│ ├─ 
+│ └─ 
+├─ data-analyst-capstone-project
+│ ├─ 
+│ └─ 
+├─ web-application-projects
+│ ├─ 
+│ └─ 
+├─ web-dev-projects
+│ ├─ 
+│ └─ 
+├─ python-projects
+│ ├─ 
+│ └─ 
+├─ ai-ml-projects
 │ └─ UploadAndDashboard
-├─ styles/index.css
-└─ utils/parser.js
+├─ resources
+├─ roadmap
+└─ documents
 ```
 
 
