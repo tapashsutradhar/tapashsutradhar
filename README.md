@@ -46,7 +46,7 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 # [![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](LINK)
 
 ```
-tapashsutradhar-github-profile
+tapashsutradhar-github-repository
 ├─ portfolio-project
 │ ├─ 
 │ └─ 
@@ -66,7 +66,7 @@ tapashsutradhar-github-profile
 │ ├─ 
 │ └─ 
 ├─ ai-ml-projects
-│ └─ UploadAndDashboard
+│ └─ 
 ├─ resources
 ├─ roadmap
 └─ documents
@@ -74,42 +74,30 @@ tapashsutradhar-github-profile
 
 
 ```md
-# When you run the app (npm run dev), browser will open a clean dashboard page with a few main sections:
-
-
-Top row → cards showing KPIs:
-- Total Revenue
-- Total Orders
-- Units Sold
-- Average Order Value
-
-Filters → dropdowns and date pickers to narrow down by category, region, or time.
-
-Charts →
-- Line chart of sales over time
-- Pie chart of sales by region
-- Bar chart of top categories
-
-Data Table → preview of the raw CSV rows with an option to export filtered data back out to CSV.
-
-How to use it:
---------------
-
-Open the app in your browser (http://localhost:5173/).
-
-Click the “Upload CSV” button.
-
-Yes, you need to upload a CSV 📂 (otherwise the dashboard has no data to analyze).
-
-# The file should have columns like:
-
-OrderID,Date,Customer,Product,Category,Quantity,Price,Region
-
-
-Once uploaded, the KPIs, charts, and table will auto-populate from your data.
-
-Play with the filters (date range, region, category) to slice and dice.
-
-If you want, export the filtered table back out to CSV.
+# GitHub Repo Index :→
+# tapashsutradhar-github-repository
+├─ portfolio-project
+│ ├─ 
+│ └─ 
+├─ data-analyst-portfolio
+│ ├─ 
+│ └─ 
+├─ data-analyst-capstone-project
+│ ├─ 
+│ └─ 
+├─ web-application-projects
+│ ├─ 
+│ └─ 
+├─ web-dev-projects
+│ ├─ 
+│ └─ 
+├─ python-projects
+│ ├─ 
+│ └─ 
+├─ ai-ml-projects
+│ └─ 
+├─ resources
+├─ roadmap
+└─ documents
 ```
 
