@@ -18,9 +18,8 @@ A geek and a nerd.
 My name is Tapash Sutradhar. <br>  <br>
 I am an aspiring Data Analyst with a strong foundation and hands-on experience in data cleaning, transformation, visualization, statistical analysis, reporting and dashboarding. Skilled at prompt engineering using ai tools to increase productivity in analyzing and visualizing large datasets to deliver actionable insights that support data-driven business decisions. Eager to apply analytical, mathematical, and technical skills to solve real-world problems. Designing and implementing data pipelines ETL process and data warehousing solutions using AWS, DBT. Conducting statistical analysis trend forecasting and creating interactive dashboards in power BI and Tableau Collaborating with cross functional teams to identify and resolve complex data related business problems improving data accuracy and reporting.
 
-```
-Data Analyst/Engineer | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Data Science & ML
-```
+> Data Analyst/Engineer | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Data Science & ML
+
 
 I specialize in: <br>
 ✔ Data Analysis <br>
@@ -35,6 +34,10 @@ I specialize in: <br>
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
 My goal is to leverage data to uncover insights, improve decision-making, and support organizations in achieving measurable business impact. 
+
+#
+
+My Portfolio Website
 
 #
 
