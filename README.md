@@ -36,7 +36,19 @@ I have completed industry-recognized certifications, including Google Data Analy
 My goal is to leverage data to uncover insights, improve decision-making, and support organizations in achieving measurable business impact. 
 
 #
+[![GitHub Icon](https://img.shields.io/badge/Git%20Hub%20Repo-8A2BE2)](LINK)
+[![GitHub Icon](https://img.shields.io/badge/GitHub_Repo-Projects_Portfolio-blue)](LINK)
 
+
+
+[![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](YOUR_LINK_HERE)
+[![GitHub Icon](https://img.shields.io/badge/Git%20Hub%20Repo-8A2BE2)](LINK)
+[![GitHub Icon](https://img.shields.io/badge/-GitHub-181717?Git%20Hub%20Repo-8A2BE2)](LINK)
+[![GitHub Icon](https://img.shields.io/badge/GitHub_Repo-Projects_Portfolio-blue)](LINK)
+[![GitHub Icon](https://img.shields.io/badge/GitHub-Repository)](LINK)
+
+[![GitHub Icon](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](LINK)
+`My Portfolio Projects Repo is here`
 My Portfolio Website
 
 #
