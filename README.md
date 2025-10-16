@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 A geek and a nerd.
 -->
 My name is Tapash Sutradhar. <br>  <br>
-I am an aspiring Data Analyst with a strong foundation and hands-on experience in data cleaning, transformation, visualization, statistical analysis, reporting and dashboarding. Skilled at prompt engineering using ai tools to increase productivity in analyzing and visualizing large datasets to deliver actionable insights that support data-driven business decisions. Eager to apply analytical, mathematical, and technical skills to solve real-world problems. Designing and implementing data pipelines ETL process and data warehousing solutions using AWS, DBT. Conducting statistical analysis trend forecasting and creating interactive dashboards in power BI and Tableau Collaborating with cross functional teams to identify and resolve complex data related business problems improving data accuracy and reporting.
+I am an aspiring Software Developer and Data Analyst with a strong foundation and hands-on experience in data cleaning, transformation, visualization, statistical analysis, reporting and dashboarding. Skilled at prompt engineering using ai tools to increase productivity in analyzing and visualizing large datasets to deliver actionable insights that support data-driven business decisions. Eager to apply analytical, mathematical, and technical skills to solve real-world problems. Designing and implementing data pipelines ETL process and data warehousing solutions using AWS, DBT. Conducting statistical analysis trend forecasting and creating interactive dashboards in power BI and Tableau Collaborating with cross functional teams to identify and resolve complex data related business problems improving data accuracy and reporting.
 
 > Data Analyst/Engineer | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Data Science & ML
 
 
 I specialize in: <br>
-✔ Data Analysis <br>
+✔ Software Developer & Data Analysis <br>
 ✔ Programming Language (Java,Python, R) <br>
 ✔ Data Cleaning & Preparation (Python, Excel, SQL) <br>
 ✔ Data Visualization (Tableau, Power BI, Matplotlib) <br>
