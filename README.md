@@ -45,20 +45,25 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 # GitHub Repo Index :→
 # tapashsutradhar-github-repository
 ├─ portfolio
-│ ├─ 
-│ └─ 
+│ └─ personal-website
 ├─ data-analyst-portfolio
 │ ├─ amazon_sales_report_python
-│ └─ 
+│ ├─ e-commerce_bi_dashboard
+│ ├─ retail_sales_data_analysis
+│ ├─ retail_data_analytics-end-to-end
+│ ├─ data-analyst-capstone-project
+│ └─ bank_loan_default_risk_analysis
 ├─ full-stack-software-development
 │ ├─ 
 │ └─
-├─ python-projects
-│ ├─ 
-│ └─ 
 ├─ ai-machine-learning-projects
-│ ├─ 
-│ └─ 
+│ ├─ ai_agent_qa_forecast
+│ └─
+├─ embidded-system-and-software-development
+│ └─ projects
+│   ├─ E-Bicycle_Speed_Controller
+│   ├─ Electrical_Load_Power_Calculator
+│   └─ Solar-Battery_System_Development
 ├─ resources
 ├─ roadmap
 └─ documents
