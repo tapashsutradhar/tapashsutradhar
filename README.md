@@ -39,56 +39,25 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 [![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tapashsutradhar)
 [![GitHub Icon](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](LINK)
 [![GitHub Icon](https://img.shields.io/badge/My_GitHub-Portfolio_Projects_🔗-blue)](https://github.com/tapashsutradhar/portfolio-project)
-```
-tapashsutradhar-github-repository
-├─ portfolio-project
-│ ├─ 
-│ └─ 
-├─ data-analyst-portfolio
-│ ├─ 
-│ └─ 
-├─ data-analyst-capstone-project
-│ ├─ 
-│ └─ 
-├─ web-application-projects
-│ ├─ 
-│ └─ 
-├─ web-dev-projects
-│ ├─ 
-│ └─ 
-├─ python-projects
-│ ├─ 
-│ └─ 
-├─ ai-ml-projects
-│ └─ 
-├─ resources
-├─ roadmap
-└─ documents
-```
 
 
 ```md
 # GitHub Repo Index :→
 # tapashsutradhar-github-repository
-├─ portfolio-project
+├─ portfolio
 │ ├─ 
 │ └─ 
 ├─ data-analyst-portfolio
 │ ├─ 
 │ └─ 
-├─ data-analyst-capstone-project
+├─ web-dev-projects-full-stack
 │ ├─ 
-│ └─ 
-├─ web-application-projects
-│ ├─ 
-│ └─ 
-├─ web-dev-projects
-│ ├─ 
-│ └─ 
+│ └─
 ├─ python-projects
 │ ├─ 
 │ └─ 
 ├─ ai-ml-projects
+│ ├─ 
 │ └─ 
 ├─ resources
 ├─ roadmap
