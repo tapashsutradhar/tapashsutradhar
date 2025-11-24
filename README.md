@@ -18,11 +18,11 @@ A geek and a nerd.
 My name is Tapash Sutradhar. <br>  <br>
 I am an aspiring Software Developer and Data Analyst with a strong foundation and hands-on experience in data cleaning, transformation, visualization, statistical analysis, reporting and dashboarding. Skilled at prompt engineering using ai tools to increase productivity in analyzing and visualizing large datasets to deliver actionable insights that support data-driven business decisions. Eager to apply analytical, mathematical, and technical skills to solve real-world problems. Designing and implementing data pipelines ETL process and data warehousing solutions using AWS, DBT. Conducting statistical analysis trend forecasting and creating interactive dashboards in power BI and Tableau Collaborating with cross functional teams to identify and resolve complex data related business problems improving data accuracy and reporting.
 
-> Software Developer | Data Analyst/Engineer | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Data Science & ML
+> Electrical Engineer | Data Analyst | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | AI & ML
 
 
 I specialize in: <br>
-✔ Software Developer & Data Analysis <br>
+✔ Data Analysis <br>
 ✔ Programming Language (Java,Python, R) <br>
 ✔ Data Cleaning & Preparation (Python, Excel, SQL) <br>
 ✔ Data Visualization (Tableau, Power BI, Matplotlib) <br>
@@ -53,12 +53,12 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 │ ├─ retail_data_analytics-end-to-end
 │ ├─ data-analyst-capstone-project
 │ └─ bank_loan_default_risk_analysis
+[🔸 AI & Machine Learning](https://github.com/tapashsutradhar/resources/blob/main/up-right-from-square-solid.svg)
 ├─ full-stack-software-development
-│ ├─ 
-│ └─
+│ ├─ ...
+│ └─ ...
 ├─ ai-machine-learning-projects
-│ ├─ ai_agent_qa_forecast
-│ └─
+│ └─ ai_agent_qa_forecast
 ├─ embidded-system-and-software-development
 │ └─ projects
 │   ├─ E-Bicycle_Speed_Controller
