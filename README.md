@@ -53,7 +53,6 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 │ ├─ retail_data_analytics-end-to-end
 │ ├─ data-analyst-capstone-project
 │ └─ bank_loan_default_risk_analysis
-[🔸 AI & Machine Learning](https://github.com/tapashsutradhar/resources/blob/main/up-right-from-square-solid.svg)
 ├─ full-stack-software-development
 │ ├─ ...
 │ └─ ...
@@ -68,7 +67,7 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 ├─ roadmap
 └─ documents
 ```
-
+[🔸 AI & Machine Learning](https://github.com/tapashsutradhar/resources/blob/main/up-right-from-square-solid.svg)
 ## 📌 Connect With Me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tapashsutradhar)
 - Tableau Public: [Tableau Profile](https://public.tableau.com/profile/tapashsutradhar)
