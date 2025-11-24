@@ -53,9 +53,6 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 │ ├─ retail_data_analytics-end-to-end
 │ ├─ data-analyst-capstone-project
 │ └─ bank_loan_default_risk_analysis
-├─ full-stack-software-development
-│ ├─ ...
-│ └─ ...
 ├─ ai-machine-learning-projects
 │ └─ ai_agent_qa_forecast
 ├─ embidded-system-and-software-development
