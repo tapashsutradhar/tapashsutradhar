@@ -55,7 +55,7 @@ My goal is to leverage data to uncover insights, improve decision-making, and su
 │ └─ bank_loan_default_risk_analysis
 ├─ ai-machine-learning-projects
 │ └─ ai_agent_qa_forecast
-├─ embidded-system-and-software-development
+├─ embidded-system-automation-electrical
 │ └─ projects
 │   ├─ E-Bicycle_Speed_Controller
 │   ├─ Electrical_Load_Power_Calculator
