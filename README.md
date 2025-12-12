@@ -22,13 +22,16 @@ Aspiring Data Scientist with a strong academic foundation in statistics and math
 
 
 I specialize in: <br>
-✔ Data Analysis <br>
+✔ Data Science <br>
+✔ Data Analysis and Visualization <br>
+✔ Machine Learning and Deep Learning <br>
+✔ Statistical Analysis & Forecasting <br>
 ✔ Programming Language (Java,Python, R) <br>
 ✔ Data Cleaning & Preparation (Python, Excel, SQL) <br>
 ✔ Data Visualization (Tableau, Power BI, Matplotlib) <br>
 ✔ Python Libraries (Pandas, Seaborn, NumPy, Matplotlib) <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
-✔ Machine Learning, Statistical Analysis & Forecasting <br>
+✔ Artificial Intelligence <br>
 
 
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
