@@ -21,6 +21,7 @@ Aspiring Data Scientist with a strong academic foundation in statistics and math
 > Software Engineer | Data Analyst | Machine Learning | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Artificial Intelligence (AI)
 
 <div align="right"> <img src="https://github.com/tapashsutradhar/resources/blob/main/Earth.gif" alt="Alt text"/> </div>
+<br clear="right"/>
 I specialize in: <br>
 ✔ Data Science <br>
 ✔ Data Analysis and Visualization <br>
@@ -33,7 +34,6 @@ I specialize in: <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
 ✔ Artificial Intelligence <br>
 
-![](https://github.com/tapashsutradhar/resources/blob/main/Earth.gif)
 
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
