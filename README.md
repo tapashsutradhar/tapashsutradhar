@@ -21,7 +21,7 @@ Aspiring Data Scientist with a strong academic foundation in statistics and math
 > Software Engineer | Data Analyst | Machine Learning | Python, Java, R | SQL, Excel, Tableau, Power BI | Turning Data Into Business Insights  | Artificial Intelligence (AI)
 
 <div align="right"> <img src="https://github.com/tapashsutradhar/resources/blob/main/Earth.gif" alt="Alt text"/> </div>
-<br clear="right"/>
+
 I specialize in: <br>
 ✔ Data Science <br>
 ✔ Data Analysis and Visualization <br>
@@ -34,6 +34,31 @@ I specialize in: <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
 ✔ Artificial Intelligence <br>
 
+
+<table>
+  <tr>
+    <!-- Left Column for Text Content -->
+    <td valign="top" width="60%">
+
+### My Project Content
+
+Here is the main text of my README file.
+This column is set to take up about 60% of the available width.
+
+- **Feature 1:** Explained here.
+- **Feature 2:** Explained here.
+- **Feature 3:** Explained here.
+
+You can add more paragraphs and Markdown content in this cell.
+
+    </td>
+
+    <!-- Right Column for GIF Image -->
+    <td valign="top" width="40%">
+      <img src="https://github.com/tapashsutradhar/resources/blob/main/Earth.gif" alt="Description of my GIF animation" width="100%">
+    </td>
+  </tr>
+</table>
 
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
