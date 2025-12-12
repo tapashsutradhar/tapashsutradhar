@@ -35,7 +35,7 @@ I specialize in: <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
 ✔ Artificial Intelligence <br>
 
-<div align="right"> <img src="https:" alt="Alt text"/> </div>
+<div align="right"> <img src="https:" alt=""/> </div>
 
 I have completed industry-recognized certifications, including Google Data Analytics and IBM Data Analyst, with have software development knowledge and applied my skills to real-world projects such as sales dashboards, churn prediction, and e-commerce data analysis. 
 
