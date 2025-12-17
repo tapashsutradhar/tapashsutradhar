@@ -91,6 +91,13 @@ I focus on **business impact**, not just models or code:
 - Reduced loan default risk by **35%**
 - Enabled real-time analytics and ML workflows
 
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapashsutradhar&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+
 
 ## 📌 Connect With Me
 #
