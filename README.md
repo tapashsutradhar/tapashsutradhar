@@ -36,14 +36,14 @@ I build **scalable data platforms, machine learning systems, and production-grad
 
 <img align="right" width="" height="" src="https://github.com/tapashsutradhar/resources/blob/main/Earth.gif">
 
-I specialize in: <br>
+I specialize in: <br><br> 
 ✔ Data Science / Data Analysis and Visualization <br>
 ✔ Machine Learning and NLP <br>
 ✔ Programming Language (Java,Python, R) <br>
 ✔ Data Cleaning & Preparation <br>
 ✔ AI Business Management <br>
 ✔ Business Insights, Data storytelling & Reporting <br>
-✔ Artificial Intelligence <br>
+✔ Artificial Intelligence <br><br> <br> 
 
 
 ## What I Do
