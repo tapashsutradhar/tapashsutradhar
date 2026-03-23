@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 A geek and a nerd.
 
 My name is Tapash Sutradhar. <br>  <br>
-Aspiring Data Scientist with a strong academic foundation in statistics and mathematics, complemented by hands on experience in data analysis and machine learning. Seeking an opportunity to utilize my skills and abilities in a value driven company that offers professional growth and driving myself towards the development of cutting edge technologies for future Indian technologic landscape. With my strong foundation and hands-on experience in data cleaning, transformation, visualization, statistical analysis, reporting and dashboarding. Skilled at prompt engineering using ai tools to increase productivity in analyzing and visualizing large datasets to deliver actionable insights that support data-driven business decisions. Eager to apply analytical, mathematical, and technical skills to solve real-world problems. Designing and implementing data pipelines ETL process and data warehousing solutions using AWS, DBT. Conducting statistical analysis trend forecasting and creating interactive dashboards in power BI and Tableau Collaborating with cross functional teams to identify and resolve complex data related business problems improving data accuracy and reporting.
+SDE| SDET | Data Analyst
 -->
 
 # Hi 👋<br>
 My name is Tapash Sutradhar. <br>  
-I'm a Data Engineer | Data Scientist | Software Engineer  <br>  
+I'm a SDE | SDET | Data Analyst  <br>  
 
 
 I build **scalable data platforms, machine learning systems, and production-grade software** that solve real business problems.  <br>   <br> 
