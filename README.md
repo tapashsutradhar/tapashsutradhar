@@ -83,7 +83,7 @@ I focus on **business impact**, not just models or code:
 - Improved inventory planning accuracy by **30%**
 - Reduced loan default risk by **35%**
 - Enabled real-time analytics and ML workflows
-
+-->
 
 
 
@@ -92,7 +92,7 @@ I focus on **business impact**, not just models or code:
 [![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tapashsutradhar)
 [![GitHub Icon](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](LINK)
 [![GitHub Icon](https://img.shields.io/badge/My_GitHub-Portfolio_Projects_🔗-blue)](https://github.com/tapashsutradhar/portfolio-project)
--->
+
 📫 **Let’s connect**
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tapashsutradhar/)
 - Email: sutradhartapashapd@gmail.com
