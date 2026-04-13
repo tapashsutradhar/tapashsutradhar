@@ -94,4 +94,6 @@ I focus on **business impact**, not just models or code:
 [![GitHub Icon](https://img.shields.io/badge/My_GitHub-Portfolio_Projects_🔗-blue)](https://github.com/tapashsutradhar/portfolio-project)
 -->
 📫 **Let’s connect**
-[LinkedIn](https://www.linkedin.com/in/tapashsutradhar/) | Email: sutradhartapashapd@gmail.com | [Portfolio](https://tapashsutradhar.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/tapashsutradhar/)
+- Email: sutradhartapashapd@gmail.com
+- [Portfolio](https://tapashsutradhar.github.io/portfolio/)
