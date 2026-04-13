@@ -23,7 +23,7 @@ SDE| SDET | Data Analyst
 
 # Hi 👋<br>
 My name is Tapash Sutradhar. <br>  
-I'm a SDE | SDET | Data Analyst  <br>  
+I'm a SDE & SDET | Data Analyst  <br>  
 
 
 I build **scalable data platforms, machine learning systems, and production-grade software** that solve real business problems.  <br>   <br> 
