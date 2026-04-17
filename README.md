@@ -206,3 +206,134 @@ I enjoy building systems that are not only functional but also **efficient, scal
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
+
+---
+
+
+
+# 👋 Hi, I'm Tapash Sutradhar
+
+💻 Software Development Engineer | SDET | QA Engineer  
+📍 2+ Years Experience | Automation | Scalable Systems | Data-Driven Applications  
+
+---
+
+## 🚀 About Me
+
+Software Engineer with 2+ years of experience in **Software Development, Test Automation, and Quality Engineering**.
+
+- ⚡ Build **scalable automation frameworks** and robust systems  
+- 🔍 Strong in **SDET, API Testing, UI Automation, CI/CD**  
+- 📊 Experience with **Data Analytics, Machine Learning & Forecasting**  
+- 🏗️ Hands-on with **Full Stack Development & Distributed Systems**  
+- 🎯 Focused on **performance, reliability, and clean architecture**
+
+---
+
+## 🧠 Core Skills (ATS Keywords)
+
+**Programming:** Java, Python, JavaScript, SQL  
+**Testing:** Selenium, TestNG, Cypress, Automation Framework Design  
+**Backend & APIs:** REST APIs, Microservices, API Testing, Postman  
+**Frontend:** React.js, HTML, CSS  
+**DevOps:** Git, GitHub, CI/CD Pipelines  
+**Data & ML:** Power BI, Data Analysis, Forecasting Models  
+**Concepts:** OOP, Data Structures & Algorithms, System Design, Distributed Systems  
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📂 Featured Projects (Impact-Focused)
+
+### 🔹 Automation Framework (SDET)
+**test-automation-framework-municipality-system**  
+✔ Designed scalable test framework (Selenium + TestNG)  
+✔ Reduced manual testing effort & improved test coverage  
+
+---
+
+### 🔹 Distributed Banking System
+**distributed-banking-system-secure-transactions**  
+✔ Built secure transaction system with distributed architecture  
+✔ Focus on reliability, consistency & fault tolerance  
+
+---
+
+### 🔹 Full Stack Application
+**fullstack-blogging-website**  
+✔ Developed end-to-end blogging platform  
+✔ Implemented authentication, APIs, and UI  
+
+---
+
+### 🔹 ML & Forecasting
+**ecommerce-sales-prediction-and-kpi-analysis**  
+✔ Built predictive models for sales forecasting  
+✔ Generated actionable business insights  
+
+---
+
+### 🔹 Data Analytics System
+**airport-operations-analytics-forecasting**  
+✔ Performed analytics & forecasting on operations data  
+✔ Improved decision-making using dashboards  
+
+---
+
+### 🔹 SaaS Product
+**SaaS_All-in-One_Enterprise_Productivity_Project_Management**  
+✔ Designed scalable SaaS productivity system  
+✔ Focused on enterprise-level architecture  
+
+---
+
+## 📊 GitHub Stats
+
+![Tapash's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapashsutradhar&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tapashsutradhar&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tapashsutradhar&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 What Makes Me Different
+
+✔ Strong **SDET + Developer hybrid profile**  
+✔ Experience in **Automation + Development + Data**  
+✔ Build systems with **scalability & performance in mind**  
+✔ Fast learner with **problem-solving mindset**  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+- 🌐 Portfolio: (Add your site)
+
+---
+
+## ⚡ Career Focus
+
+Actively looking for opportunities in:
+
+- Software Development Engineer (SDE)  
+- SDET / QA Automation Engineer  
+- Backend / Full Stack Engineer  
+
+---
+
+⭐ *Open to collaborate on high-impact engineering projects*
