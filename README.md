@@ -19,7 +19,7 @@ A geek and a nerd.
 
 My name is Tapash Sutradhar. <br>  <br>
 SDE| SDET | Data Analyst
--->
+
 
 # Hi 👋<br>
 My name is Tapash Sutradhar. <br>  
@@ -92,8 +92,117 @@ I focus on **business impact**, not just models or code:
 [![GitHub Link](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tapashsutradhar)
 [![GitHub Icon](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](LINK)
 [![GitHub Icon](https://img.shields.io/badge/My_GitHub-Portfolio_Projects_🔗-blue)](https://github.com/tapashsutradhar/portfolio-project)
--->
+
 📫 **Let’s connect**
 - [LinkedIn](https://www.linkedin.com/in/tapashsutradhar/)
 - Email: sutradhartapashapd@gmail.com
 - [Portfolio](https://tapashsutradhar.github.io/portfolio/)
+
+-->
+
+# 👋 Hi, I'm Tapash Sutradhar
+
+💻 Software Development Engineer | SDET | QA Engineer  
+📍 2+ Years of Experience in Software Testing, Automation & Development  
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Software Engineer with hands-on experience in **Software Development, Test Automation, and Quality Assurance**. I specialize in building scalable systems, automation frameworks, and data-driven applications.
+
+- 🔍 Strong in **Full-Stack Software Development, SDET & QA Automation**
+- ⚙️ Experience in **End-to-End Testing & Framework Design**
+- 📊 Worked on **Data Analytics, BI Dashboards & Forecasting**
+- 🌐 Full-stack development experience
+- 🚀 Always learning new technologies and improving system quality
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+- Java | Python | JavaScript | SQL  
+- Selenium | TestNG | Cypress | Automation Frameworks  
+- REST APIs | Postman | API Testing  
+- React | Node.js | Full Stack Development  
+- Power BI | Data Analytics | Machine Learning Basics  
+- Git | GitHub | CI/CD  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Full Stack & System Design
+- 📌 `fullstack-blogging-website`
+- 📌 `distributed-banking-system-secure-transactions`
+- 📌 `SaaS_All-in-One_Enterprise_Productivity_Project_Management`
+- Built scalable full-stack applications with secure architecture  
+
+---
+
+### 🔹 Test Automation Framework
+- 📌 `test-automation-framework-municipality-system`
+- Built a scalable automation framework for real-world application testing  
+- Technologies: Selenium, TestNG, Java  
+
+---
+
+### 🔹 Data Analytics & BI Projects
+- 📌 `ecommerce-bi-dashboard`
+- 📌 `retail-sales-analytics-end-to-end`
+- 📌 `airport-operations-analytics-forecasting`
+- Built dashboards and forecasting models for business insights  
+
+---
+
+### 🔹 Machine Learning & Data Science
+- 📌 `Bank_Loan_Default_Risk_Analysis`
+- 📌 `ecommerce-sales-prediction-and-kpi-analysis`
+- Applied ML models for prediction and KPI analysis  
+
+---
+
+### 🔹 Embedded & Automation Systems
+- 📌 `embedded-power-and-energy-systems-automation-projects`
+- Focused on automation in power and energy systems  
+
+---
+
+### 🔹 Portfolio & Personal Projects
+- 📌 `portfolio_website`
+- 📌 `tapashsutradhar.github.io`
+- Personal portfolio and GitHub Pages website  
+
+---
+
+### 🔹 Mobile & Financial Application
+- 📌 Financial Cash Inflow & Outflow Investment App  
+- Cross-platform application (Android, iOS, Desktop) for financial tracking  
+
+---
+
+## 📈 What I Bring
+
+✔ Strong problem-solving mindset  
+✔ Automation-first approach to quality  
+✔ Experience in real-world scalable systems  
+✔ Ability to work across development & testing  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: @tapashsutradhar [link](https://www.linkedin.com/in/tapashsutradhar/)
+- 📧 Email: sutradhartapashapd@gmail.com
+- 🌐 Portfolio: [Link](https://tapashsutradhar.github.io/portfolio/)
+- 🦋 Bluesky: [Link](https://bsky.app/profile/tapashsutradhar.bsky.social)
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that are not only functional but also **efficient, scalable, and reliable**.
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
